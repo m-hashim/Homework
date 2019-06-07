@@ -8,10 +8,11 @@ using HomeWork.Models;
 
 namespace HomeWork.Controllers
 {
-    public class HomeController : Controller
+    public class StudentController : Controller
     {
         public IActionResult Index()
         {
+
             return View();
         }
 
