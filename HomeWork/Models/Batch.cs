@@ -18,7 +18,8 @@ namespace HomeWork.Models
         public Semester CurrentSemester { get; set; }
 
         public IEnumerable<Student> Students { get; set; }
-        
+        public IEnumerable<Subject> CurrentSubjects { get; set; }
+
 
     }
 }

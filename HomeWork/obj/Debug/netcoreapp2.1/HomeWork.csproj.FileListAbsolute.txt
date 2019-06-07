@@ -33,3 +33,9 @@ E:\Projects\HomeWork\HomeWork\obj\Debug\netcoreapp2.1\HomeWork.dll
 E:\Projects\HomeWork\HomeWork\obj\Debug\netcoreapp2.1\HomeWork.pdb
 E:\Projects\HomeWork\HomeWork\obj\Debug\netcoreapp2.1\HomeWork.csproj.CopyComplete
 E:\Projects\HomeWork\HomeWork\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\Projects\HomeWork\HomeWork\obj\Debug\netcoreapp2.1\Razor\Pages\_ValidationScriptsPartial.g.cshtml.cs
+E:\Projects\HomeWork\HomeWork\obj\Debug\netcoreapp2.1\Razor\Views\Student\Create.g.cshtml.cs
+E:\Projects\HomeWork\HomeWork\obj\Debug\netcoreapp2.1\Razor\Views\Student\Delete.g.cshtml.cs
+E:\Projects\HomeWork\HomeWork\obj\Debug\netcoreapp2.1\Razor\Views\Student\Details.g.cshtml.cs
+E:\Projects\HomeWork\HomeWork\obj\Debug\netcoreapp2.1\Razor\Views\Student\Edit.g.cshtml.cs
+E:\Projects\HomeWork\HomeWork\obj\Debug\netcoreapp2.1\Razor\Views\Student\Index.g.cshtml.cs
