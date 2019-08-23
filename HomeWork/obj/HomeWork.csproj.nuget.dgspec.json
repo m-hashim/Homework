@@ -10,15 +10,15 @@
         "projectUniqueName": "E:\\Projects\\HomeWork\\HomeWork\\HomeWork.csproj",
         "projectName": "HomeWork",
         "projectPath": "E:\\Projects\\HomeWork\\HomeWork\\HomeWork.csproj",
-        "packagesPath": "C:\\Users\\hashim\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Hashim Laptop\\.nuget\\packages\\",
         "outputPath": "E:\\Projects\\HomeWork\\HomeWork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\hashim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hashim Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -53,10 +53,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.2, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[2.1.8, )"
             },
             "Microsoft.NETCore.App": {
               "target": "Package",
